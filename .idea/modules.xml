@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/8940/8940.iml" filepath="$PROJECT_DIR$/8940/8940.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8941/8941.iml" filepath="$PROJECT_DIR$/8941/8941.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8942/8942.iml" filepath="$PROJECT_DIR$/8942/8942.iml" />
       <module fileurl="file://$PROJECT_DIR$/EolympArrays.iml" filepath="$PROJECT_DIR$/EolympArrays.iml" />
     </modules>
   </component>
